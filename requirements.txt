@@ -1,0 +1,8 @@
+fastembed
+rank_bm25
+numpy
+matplotlib
+fastapi
+uvicorn
+httpx
+pytest
